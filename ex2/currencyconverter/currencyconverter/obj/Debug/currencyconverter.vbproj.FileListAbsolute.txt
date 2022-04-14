@@ -1,0 +1,9 @@
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\bin\currencyconverter.dll
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\bin\currencyconverter.pdb
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\bin\currencyconverter.xml
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\obj\Debug\currencyconverter.Resources.resources
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\obj\Debug\currencyconverter.vbproj.GenerateResource.Cache
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\obj\Debug\currencyconverter.dll
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\obj\Debug\currencyconverter.xml
+C:\Users\malar\Documents\Visual Studio 2008\Projects\currencyconverter\currencyconverter\obj\Debug\currencyconverter.pdb
