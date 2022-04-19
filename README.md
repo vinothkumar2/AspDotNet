@@ -1,6 +1,6 @@
 # AspDotNet
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/vinothkumar2/AspDotNet&left_color=lightgrey&right_color=yellow&left_text=Page_Views) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvinothkumar2%2FAspDotNet%2F&count_bg=%2338393D&title_bg=%2327B3BE&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 1. <a href="https://github.com/vinothkumar2/AspDotNet/tree/main/ex2">Implementing Currency Converter logic in ASP.NET</a> 
 2. <a href="https://github.com/vinothkumar2/AspDotNet/tree/main/ex1">Demonstrate Page Event Tracking in ASP.NET</a> 
